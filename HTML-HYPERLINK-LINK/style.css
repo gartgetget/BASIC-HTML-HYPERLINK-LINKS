@@ -1,0 +1,38 @@
+body{
+    background-color: whitesmoke;
+
+}
+
+h1{
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    border-radius: 30px;
+    background-color: rgb(248, 99, 99);
+}
+
+a img{
+    margin-left: 15%;
+    width: 70%;
+    height: 500px;
+}
+
+p{
+
+    position: relative;
+
+
+   margin-top: 0%;
+   font-size: 20px;
+   font-weight: 100;
+}
+
+button{
+    margin-left: 35%;
+    margin-top: 3%;
+    width: 30%;
+    height: 50px;
+    border-radius: 20px;
+    margin-bottom: 3%;
+    background-color: rgb(254, 97, 97);
+}
